@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .todo-app{
 	margin: 2rem auto 0 auto;
 	max-width: 400px;
@@ -6,3 +7,13 @@
 .top-panel{
 	margin: 1rem 0;
 }
+=======
+.todo-app {
+  margin: 2rem auto 0 auto;
+  max-width: 400px;
+}
+
+.top-panel {
+  margin: 1rem 0;
+}
+>>>>>>> d7e0110a06b5bae13d7d5596bd347d5ab5e7a46a
