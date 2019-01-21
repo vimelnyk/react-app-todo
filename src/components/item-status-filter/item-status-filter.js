@@ -14,15 +14,11 @@ export default class ItemStatusFilter extends Component {
                 className="btn btn-outline-secondary">Done</button>
       </div>
     );
-<<<<<<< HEAD
+
   } 
 }
 
-=======
-  }
 
-}
->>>>>>> d7e0110a06b5bae13d7d5596bd347d5ab5e7a46a
 
 // const ItemStatusFilter = () => {
 //   return (
@@ -37,8 +33,5 @@ export default class ItemStatusFilter extends Component {
 //   );
 // };
 
-<<<<<<< HEAD
+
 // export default ItemStatusFilter;
-=======
-// /*export default ItemStatusFilter;*/
->>>>>>> d7e0110a06b5bae13d7d5596bd347d5ab5e7a46a
